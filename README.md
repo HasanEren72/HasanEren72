@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:238636,100:58A6FF&text=Hasan%20Eren&fontColor=FFFFFF&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Unity%20Developer%20%7C%20Software%20Engineering%20Student%20%7C%20Indie%20Developer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,40:238636,100:58A6FF&text=Hasan%20Eren&fontColor=FFFFFF&fontSize=58&animation=fadeIn&fontAlignY=38&desc=Unity%20Developer%20|%20Game%20Developer%20|%20Software%20Developer&descAlignY=60"/>
 
-# 👋 Welcome To My GitHub Profile
+# 👋 Welcome to My GitHub Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&center=true&vCenter=true&width=850&lines=Unity+Game+Developer;Software+Engineering;C%23+Developer;Building+Games+And+Developer+Tools;Learning+AI+And+Modern+Software+Architecture" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Unity+Game+Developer;C%23+Developer;Building+Games+And+Developer+Tools;Interested+in+AI+%26+Automation;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -12,31 +12,28 @@
 
 # 🚀 About Me
 
-🎮 Passionate Unity Developer focused on creating games and productivity tools.
+🎮 Passionate Unity Developer focused on building games, tools, and scalable systems.
 
-💻 Software Engineering constantly improving my development skills.
+💻 Interested in:
 
-🔧 Interested in:
-
-- Unity Game Development
+- Unity Game Development (2D / 3D)
+- C# Software Development
 - Editor Tool Development
-- Software Architecture
-- Firebase Integration
-- Database Systems
-- Artificial Intelligence
-- Automation Projects
+- AI & Automation Systems
+- Firebase & Online Systems
+- Database Management
 
-🌱 Currently Working On:
+🌱 Currently working on:
 
-- 🚜 X-Farm-Pro
-- 🧩 Hierarchy Designer Pro
-- 🎮 New Unity Projects
+- 🚜 **X-Farm-Pro**
+- 🧩 **Hierarchy Designer Pro**
+- 🎮 New Unity projects and tools
 
 ---
 
 # 🛠️ Tech Stack
 
-## Languages
+## Programming Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cs,java,html,js,cpp" />
@@ -110,12 +107,7 @@
 
 Agricultural automation and management system project.
 
-### Technologies
-
-- Unity
-- C#
-- Data Management
-- Modular Architecture
+**Technologies:** Unity, C#, Modular Architecture, Data Systems
 
 ---
 
@@ -123,45 +115,35 @@ Agricultural automation and management system project.
 
 Advanced productivity tool for Unity developers.
 
-### Features
-
-- Custom Hierarchy Design
-- Editor Extensions
-- Workflow Optimization
+**Features:** Custom Hierarchy Design, Editor Extensions, Workflow Optimization
 
 ---
 
 ## 🧟 ZombieGame3D
 
-3D survival game project.
-
-### Features
-
-- Enemy AI
-- FPS Mechanics
-- Survival Gameplay
+3D survival game project with AI enemies and FPS mechanics.
 
 ---
 
 ## 🎲 PuzzleGame
 
-Puzzle game project developed with Unity.
+Puzzle game developed with Unity for mobile and desktop platforms.
 
 ---
 
 ## 📱 Mobile Device Screen Orientation
 
-Utility project for handling screen orientation on mobile devices.
+Utility project for handling mobile screen orientation in Unity applications.
 
 ---
 
 # 🎯 2026 Goals
 
 - 🚀 Publish X-Farm-Pro
-- 🎮 Release New Unity Projects
-- 📚 Improve Software Architecture Skills
-- 🤖 Learn More About AI Systems
-- 🌍 Contribute To Open Source Projects
+- 🎮 Release more Unity projects
+- 🧠 Improve software architecture skills
+- 🤖 Learn advanced AI systems
+- 🌍 Contribute to open source projects
 - ⭐ Reach 100+ GitHub Stars
 
 ---
@@ -180,13 +162,10 @@ Utility project for handling screen orientation on mobile devices.
 
 <div align="center">
 
-### 💡 "Code, Learn, Build, Improve."
+### 💡 "Code • Learn • Build • Improve"
 
 <img src="https://komarev.com/ghpvc/?username=HasanEren72&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:238636,100:58A6FF"/>
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/HasanEren72/HasanEren72/blob/output/github-contribution-grid-snake.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,40:238636,100:58A6FF"/>
