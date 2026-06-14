@@ -1,33 +1,37 @@
 <div align="center">
 
+<!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,40:238636,100:58A6FF&text=Hasan%20Eren&fontColor=FFFFFF&fontSize=58&animation=fadeIn&fontAlignY=38&desc=Unity%20Developer%20|%20Software%20Engineer%20|%20Game%20Developer&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Unity+Game+Developer;C%23+Software+Engineer;Editor+Tools+Developer;AI+%26+Automation+Enthusiast;Always+Learning+New+Technologies" />
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Unity+Game+Developer;C%23+Software+Engineer;Tool+and+System+Developer;AI+%26+Automation+Enthusiast;Clean+Architecture+%26+Performance+Focused" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-🎮 Unity ve yazılım geliştirme alanında çalışan bir **Software & Game Developer**’ım.
+I am a **Unity & Software Developer** focused on building scalable systems, game development tools, and automation solutions.
 
-Bilgisayar mühendisliği altyapısına sahip, oyun geliştirme, sistem tasarımı ve araç geliştirme üzerine yoğunlaşan bir geliştiriciyim.  
-Temiz mimari, performans ve ölçeklenebilir sistemler üzerine çalışmayı seviyorum.
+I enjoy designing **clean architecture**, optimizing performance, and creating developer tools that improve workflow efficiency.
 
-### 💡 Interests
-- 🎮 Unity (2D / 3D Game Development)
+---
+
+## 💡 Core Interests
+
+- 🎮 Unity Game Development (2D / 3D / FPS Systems)
+- 🧩 Editor Tools & Productivity Extensions
 - 🧠 AI & Automation Systems
-- 🧩 Editor Tool Development
-- ☁️ Firebase & Online Systems
-- 🗄️ Database Systems (MySQL)
-- 💻 C# / System Architecture
+- ☁️ Firebase & Online Services Integration
+- 🗄️ Database Systems (MySQL / Data Architecture)
+- 💻 C# Backend & Software Architecture
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 💻 Languages
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cs,cpp,java,html,js" />
 </p>
@@ -37,38 +41,35 @@ Temiz mimari, performans ve ölçeklenebilir sistemler üzerine çalışmayı se
 <img src="https://skillicons.dev/icons?i=unity,blender" />
 </p>
 
-### ☁️ Backend & Database
+### ☁️ Backend / Database
 <p align="center">
 <img src="https://skillicons.dev/icons?i=firebase,mysql" />
 </p>
 
-### 🧰 Tools
+### ⚙️ Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HasanEren72&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanEren72&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HasanEren72&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 🔥 Streak & Activity
 
 <div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HasanEren72&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasanEren72&theme=tokyo-night&hide_border=true"/>
 
@@ -88,40 +89,60 @@ Temiz mimari, performans ve ölçeklenebilir sistemler üzerine çalışmayı se
 
 ## 🚀 Featured Projects
 
+⚠️ Replace these with your EXACT repo names if different
+
+---
+
 ### 🚜 X-Farm-Pro
-> Agricultural automation & management system  
-**Tech:** Unity • C# • Modular Architecture • Data Systems
+Automation & management system for agricultural workflows.
+
+**Stack:** Unity • C# • Modular Architecture • Data Systems
 
 ---
 
 ### 🧩 Hierarchy Designer Pro
-> Unity Editor productivity tool  
-**Features:** Custom Hierarchy UI • Workflow optimization • Editor extensions
+Unity editor extension for improving hierarchy workflow.
+
+**Stack:** Unity Editor API • C# • UX Optimization
 
 ---
 
 ### 🧟 ZombieGame3D
-> 3D survival FPS game with AI enemies
+3D FPS survival game with AI-driven enemies.
+
+**Stack:** Unity • AI Systems • FPS Mechanics
 
 ---
 
 ### 🎲 PuzzleGame
-> Mobile & desktop puzzle game built with Unity
+Puzzle game developed for mobile & desktop platforms.
+
+**Stack:** Unity • Gameplay Systems
 
 ---
 
 ### 📱 Mobile Orientation System
-> Unity mobile screen orientation utility system
+Utility system for handling screen orientation in Unity mobile apps.
+
+**Stack:** Unity • Mobile Optimization
+
+---
+
+## 🧬 Snake Contribution Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 🎯 2026 Goals
 
-- 🚀 Publish X-Farm-Pro
+- 🚀 Publish X-Farm-Pro as a full product
 - 🎮 Release multiple Unity tools & games
-- 🧠 Improve software architecture skills
-- 🤖 Build AI-powered systems
-- 🌍 Open-source contributions
+- 🧠 Improve system design & architecture skills
+- 🤖 Build AI-assisted development tools
+- 🌍 Contribute to open-source projects
 - ⭐ Reach 100+ GitHub stars
 
 ---
@@ -138,13 +159,17 @@ Temiz mimari, performans ve ölçeklenebilir sistemler üzerine çalışmayı se
 <img src="https://img.shields.io/badge/Email-238636?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-### 💡 Code • Build • Learn • Improve
+### 💡 Code • Build • Optimize • Evolve
 
 <img src="https://komarev.com/ghpvc/?username=HasanEren72&label=Profile%20Views&color=58A6FF&style=flat" />
 
