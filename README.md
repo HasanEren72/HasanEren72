@@ -2,7 +2,7 @@
 
 # 👋 Merhaba, Ben Hasan Eren
 
-### 🎮 Unity Game Developer | 💻 Software Engineering Student | 🚀 Indie Developer
+### 🎮 Unity Game Developer | 💻 Software Engineering | 🚀 Indie Developer
 
 <p>
 Oyun geliştirme, yazılım mimarisi ve otomasyon sistemleri üzerine çalışan bir geliştiriciyim.
