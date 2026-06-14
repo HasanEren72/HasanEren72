@@ -1,79 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,40:238636,100:58A6FF&text=Hasan%20Eren&fontColor=FFFFFF&fontSize=58&animation=fadeIn&fontAlignY=38&desc=Unity%20Developer%20|%20Game%20Developer%20|%20Software%20Developer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,40:238636,100:58A6FF&text=Hasan%20Eren&fontColor=FFFFFF&fontSize=58&animation=fadeIn&fontAlignY=38&desc=Unity%20Developer%20|%20Software%20Engineer%20|%20Game%20Developer&descAlignY=60"/>
 
-# 👋 Welcome to My GitHub Profile
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Unity+Game+Developer;C%23+Developer;Building+Games+And+Developer+Tools;Interested+in+AI+%26+Automation;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Unity+Game+Developer;C%23+Software+Engineer;Editor+Tools+Developer;AI+%26+Automation+Enthusiast;Always+Learning+New+Technologies" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎮 Passionate Unity Developer focused on building games, tools, and scalable systems.
+🎮 Unity ve yazılım geliştirme alanında çalışan bir **Software & Game Developer**’ım.
 
-I am a highly motivated Computer Engineering graduate with strong skills in softwaredevelopment, game development and embedded systems. Experienced in collaborating inagile teams, debugging applications and continuously improving them by learning newtechnologies. I am known for my solution-oriented and analytical mindset.
+Bilgisayar mühendisliği altyapısına sahip, oyun geliştirme, sistem tasarımı ve araç geliştirme üzerine yoğunlaşan bir geliştiriciyim.  
+Temiz mimari, performans ve ölçeklenebilir sistemler üzerine çalışmayı seviyorum.
 
-💻 Interested in:
-
-- Unity Game Development (2D / 3D)
-- C# Software Development
-- Editor Tool Development
-- AI & Automation Systems
-- Firebase & Online Systems
-- Database Management
-
-🌱 Currently working on:
-
-- 🚜 **X-Farm-Pro**
-- 🧩 **Hierarchy Designer Pro**
-- 🎮 New Unity projects and tools
+### 💡 Interests
+- 🎮 Unity (2D / 3D Game Development)
+- 🧠 AI & Automation Systems
+- 🧩 Editor Tool Development
+- ☁️ Firebase & Online Systems
+- 🗄️ Database Systems (MySQL)
+- 💻 C# / System Architecture
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## Programming Languages
-
+### 👨‍💻 Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,java,html,js,cpp" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,java,html,js" />
 </p>
 
-## Game Development
-
+### 🎮 Game Development
 <p align="center">
 <img src="https://skillicons.dev/icons?i=unity,blender" />
 </p>
 
-## Backend & Databases
-
+### ☁️ Backend & Database
 <p align="center">
 <img src="https://skillicons.dev/icons?i=firebase,mysql" />
 </p>
 
-## Development Tools
-
+### 🧰 Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HasanEren72&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanEren72&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -83,7 +66,7 @@ I am a highly motivated Computer Engineering graduate with strong skills in soft
 
 ---
 
-# 📈 Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -93,7 +76,7 @@ I am a highly motivated Computer Engineering graduate with strong skills in soft
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
@@ -103,59 +86,56 @@ I am a highly motivated Computer Engineering graduate with strong skills in soft
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🚜 X-Farm-Pro
-
-Agricultural automation and management system project.
-
-**Technologies:** Unity, C#, Modular Architecture, Data Systems
+### 🚜 X-Farm-Pro
+> Agricultural automation & management system  
+**Tech:** Unity • C# • Modular Architecture • Data Systems
 
 ---
 
-## 🧩 Hierarchy Designer Pro
-
-Advanced productivity tool for Unity developers.
-
-**Features:** Custom Hierarchy Design, Editor Extensions, Workflow Optimization
+### 🧩 Hierarchy Designer Pro
+> Unity Editor productivity tool  
+**Features:** Custom Hierarchy UI • Workflow optimization • Editor extensions
 
 ---
 
-## 🧟 ZombieGame3D
-
-3D survival game project with AI enemies and FPS mechanics.
-
----
-
-## 🎲 PuzzleGame
-
-Puzzle game developed with Unity for mobile and desktop platforms.
+### 🧟 ZombieGame3D
+> 3D survival FPS game with AI enemies
 
 ---
 
-## 📱 Mobile Device Screen Orientation
-
-Utility project for handling mobile screen orientation in Unity applications.
+### 🎲 PuzzleGame
+> Mobile & desktop puzzle game built with Unity
 
 ---
 
-# 🎯 2026 Goals
+### 📱 Mobile Orientation System
+> Unity mobile screen orientation utility system
+
+---
+
+## 🎯 2026 Goals
 
 - 🚀 Publish X-Farm-Pro
-- 🎮 Release more Unity projects
+- 🎮 Release multiple Unity tools & games
 - 🧠 Improve software architecture skills
-- 🤖 Learn advanced AI systems
-- 🌍 Contribute to open source projects
-- ⭐ Reach 100+ GitHub Stars
+- 🤖 Build AI-powered systems
+- 🌍 Open-source contributions
+- ⭐ Reach 100+ GitHub stars
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/HasanEren72">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:yourmail@example.com">
+<img src="https://img.shields.io/badge/Email-238636?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -164,11 +144,8 @@ Utility project for handling mobile screen orientation in Unity applications.
 
 <div align="center">
 
-### 💡 "Code • Learn • Build • Improve"
+### 💡 Code • Build • Learn • Improve
 
-<img src="https://komarev.com/ghpvc/?username=HasanEren72&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=HasanEren72&label=Profile%20Views&color=58A6FF&style=flat" />
 
 </div>
-
-
-
