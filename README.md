@@ -1,62 +1,146 @@
-<h1 align="center">Hi 👋, I'm Hasan Eren</h1>
-<h3 align="center">Unity Game Developer & Software Engineer </h3>
+<div align="center">
+
+# 👋 Merhaba, Ben Hasan Eren
+
+### 🎮 Unity Game Developer | 💻 Software Engineering Student | 🚀 Indie Developer
+
+<p>
+Oyun geliştirme, yazılım mimarisi ve otomasyon sistemleri üzerine çalışan bir geliştiriciyim.
+Unity ile 2D/3D oyunlar geliştiriyor, editör araçları üretiyor ve modern yazılım teknolojilerini öğreniyorum.
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Unity+Game+Developer;Software+Engineering+Student;C%23+Developer;Building+Games+and+Tools;Always+Learning+New+Technologies" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🚀 Hakkımda
 
-- 🎮 Unity Game Developer
-- 📱 Mobile Game Development
-- 🌐 Online Systems & Firebase Integration
-- 🧠 AI Assisted Development
-- 🔥 Currently working on X-Farm-Pro
-- 📚 Learning Advanced C# and Software Architecture
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-
-### Game Development
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
-
-### Backend & Cloud
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+- 🎮 Unity ile 2D ve 3D oyun geliştiriyorum
+- 🔧 Unity Editor araçları geliştiriyorum
+- 🌐 Online veri sistemleri ve Firebase entegrasyonlarıyla ilgileniyorum
+- 🤖 Yapay zeka destekli geliştirme süreçlerini araştırıyorum
+- 🌱 Yazılım mühendisliği alanında kendimi sürekli geliştiriyorum
+- 🚜 Şu anda X-Farm-Pro üzerinde çalışıyorum
 
 ---
 
-## 📊 GitHub Stats
+# 🛠️ Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=HasanEren72&show_icons=true&theme=tokyonight)
+## Programming Languages
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=HasanEren72&theme=tokyonight)
+<p>
+<img src="https://skillicons.dev/icons?i=cs,java,cpp,js" />
+</p>
+
+## Game Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=unity,blender" />
+</p>
+
+## Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,mysql" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
 
 ---
 
-## 🎮 Featured Projects
+# 📊 GitHub Statistics
 
-### X-Farm-Pro
-Agricultural automation and management system.
+<p align="center">
 
-### Hierarchy Designer Pro
-Unity Editor productivity tool.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HasanEren72&show_icons=true&theme=tokyonight"/>
 
-### ZombieGame3D
-3D Zombie Survival Game.
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanEren72&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 📫 Contact
+# 🔥 Contribution Streak
 
-- GitHub: https://github.com/HasanEren72
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HasanEren72&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 Featured Projects
+
+## 🚜 X-Farm-Pro
+
+Tarım otomasyonu ve yönetimi için geliştirdiğim proje.
+
+### Özellikler
+
+- Veri yönetimi
+- Çiftlik sistemi
+- Genişletilebilir mimari
+- Unity tabanlı geliştirme
+
+---
+
+## 🧩 Hierarchy Designer Pro
+
+Unity geliştiricileri için üretkenliği artıran editor aracı.
+
+- Custom Editor Tools
+- Hierarchy geliştirmeleri
+- Workflow optimizasyonu
+
+---
+
+## 🧟 ZombieGame3D
+
+3D hayatta kalma oyunu.
+
+- AI düşman sistemi
+- FPS mekanikleri
+- Unity 3D
+
+---
+
+## 🎲 Puzzle Game
+
+Mobil ve PC platformları için geliştirilen bulmaca oyunu.
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ X-Farm-Pro yayınlamak
+- ✅ Unity Asset geliştirmek
+- ✅ Açık kaynak projelere katkı sağlamak
+- ✅ Yazılım mühendisliği kariyerinde ilerlemek
+- ✅ Daha fazla oyun yayınlamak
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://github.com/HasanEren72">
+GitHub
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Eğer projelerimi beğendiysen repo'lara yıldız vermeyi unutma.
+
+</div>
