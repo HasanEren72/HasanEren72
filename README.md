@@ -162,10 +162,6 @@ Unity mobile utility for screen orientation handling.
 
 ---
 
-
-
----
-
 <div align="center">
 
 ### 💡 Code • Build • Optimize • Scale
