@@ -94,9 +94,11 @@ I enjoy designing **clean architecture**, optimizing performance, and creating d
 ---
 
 ### 🚜 X-Farm-Pro
-Automation & management system for agricultural workflows.
+Desktop-based agricultural management and automation system.
 
-**Stack:** Unity • C# • Modular Architecture • Data Systems
+A cross-platform application built with **Electron, HTML, CSS, and JavaScript**, focusing on farm workflow management and system automation.
+
+**Tech Stack:** Electron • HTML • CSS • JavaScript • Data Handling
 
 ---
 
