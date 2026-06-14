@@ -14,6 +14,8 @@
 
 🎮 Passionate Unity Developer focused on building games, tools, and scalable systems.
 
+I am a highly motivated Computer Engineering graduate with strong skills in softwaredevelopment, game development and embedded systems. Experienced in collaborating inagile teams, debugging applications and continuously improving them by learning newtechnologies. I am known for my solution-oriented and analytical mindset.
+
 💻 Interested in:
 
 - Unity Game Development (2D / 3D)
