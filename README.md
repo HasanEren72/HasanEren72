@@ -1,59 +1,68 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,40:238636,100:58A6FF&text=Hasan%20Eren&fontColor=FFFFFF&fontSize=58&animation=fadeIn&fontAlignY=38&desc=Unity%20Developer%20|%20Software%20Engineer%20|%20Game%20Developer&descAlignY=60"/>
+<!-- HERO HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B0F19,40:1F6FEB,100:238636&text=Hasan%20Eren&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Software%20Engineer%20|%20Game%20Developer%20|%20System%20Designer&descAlignY=60"/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Unity+Game+Developer;C%23+Software+Engineer;Tool+and+System+Developer;AI+%26+Automation+Enthusiast;Clean+Architecture+%26+Performance+Focused" />
+<!-- TYPING HEADER -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1100&center=true&vCenter=true&width=900&lines=Unity+Game+Developer;Electron+Desktop+App+Developer;C%23+%26+JavaScript+Engineer;Clean+Architecture+Enthusiast;Building+Scalable+Systems+%26+Tools" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-I am a **Unity & Software Developer** focused on building scalable systems, game development tools, and automation solutions.
+I am a **Software Engineer & Developer** focused on building:
 
-I enjoy designing **clean architecture**, optimizing performance, and creating developer tools that improve workflow efficiency.
+- ⚙️ Desktop applications  
+- 🎮 Game systems  
+- 🧩 Developer tools  
+- 🌐 Automation & data-driven systems  
 
----
-
-## 💡 Core Interests
-
-- 🎮 Unity Game Development (2D / 3D / FPS Systems)
-- 🧩 Editor Tools & Productivity Extensions
-- 🧠 AI & Automation Systems
-- ☁️ Firebase & Online Services Integration
-- 🗄️ Database Systems (MySQL / Data Architecture)
-- 💻 C# Backend & Software Architecture
+I care about:
+- Clean architecture  
+- Scalable design  
+- Performance optimization  
+- Developer experience (DX)
 
 ---
 
-## 🛠️ Tech Stack
+# 💡 Core Focus Areas
 
-### 💻 Languages
+- 🎮 Unity Game Development (2D / 3D / FPS systems)
+- 🖥️ Electron Desktop Applications
+- 🧩 Editor Tools & Workflow Optimization
+- 🌐 Web Systems (HTML / CSS / JS)
+- ☁️ Firebase & backend integration
+- 🗄️ Database systems (MySQL / JSON / local storage)
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,cpp,java,html,js" />
+<img src="https://skillicons.dev/icons?i=cs,js,html,css,cpp,java" />
 </p>
 
-### 🎮 Game Development
+## 🎮 Game Development
 <p align="center">
 <img src="https://skillicons.dev/icons?i=unity,blender" />
 </p>
 
-### ☁️ Backend / Database
+## 🖥️ Desktop & Backend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=firebase,mysql" />
+<img src="https://skillicons.dev/icons?i=electron,firebase,mysql,nodejs" />
 </p>
 
-### ⚙️ Tools
+## ⚙️ Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -65,7 +74,7 @@ I enjoy designing **clean architecture**, optimizing performance, and creating d
 
 ---
 
-## 🔥 Streak & Activity
+# 🔥 Activity & Streak
 
 <div align="center">
 
@@ -77,60 +86,7 @@ I enjoy designing **clean architecture**, optimizing performance, and creating d
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HasanEren72&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-⚠️ Replace these with your EXACT repo names if different
-
----
-
-### 🚜 X-Farm-Pro
-Desktop-based agricultural management and automation system.
-
-A cross-platform application built with **Electron, HTML, CSS, and JavaScript**, focusing on farm workflow management and system automation.
-
-**Tech Stack:** Electron • HTML • CSS • JavaScript • Data Handling
-
----
-
-### 🧩 Hierarchy Designer Pro
-Unity editor extension for improving hierarchy workflow.
-
-**Stack:** Unity Editor API • C# • UX Optimization
-
----
-
-### 🧟 ZombieGame3D
-3D FPS survival game with AI-driven enemies.
-
-**Stack:** Unity • AI Systems • FPS Mechanics
-
----
-
-### 🎲 PuzzleGame
-Puzzle game developed for mobile & desktop platforms.
-
-**Stack:** Unity • Gameplay Systems
-
----
-
-### 📱 Mobile Orientation System
-Utility system for handling screen orientation in Unity mobile apps.
-
-**Stack:** Unity • Mobile Optimization
-
----
-
-## 🧬 Snake Contribution Animation
+# 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
@@ -138,23 +94,60 @@ Utility system for handling screen orientation in Unity mobile apps.
 
 ---
 
-## 🎯 2026 Goals
+# 🧩 Featured Projects
 
-- 🚀 Publish X-Farm-Pro as a full product
-- 🎮 Release multiple Unity tools & games
-- 🧠 Improve system design & architecture skills
-- 🤖 Build AI-assisted development tools
+## 🚜 X-Farm-Pro
+Desktop agricultural management system.
+
+**Tech:** Electron • HTML • CSS • JavaScript • Data Management
+
+---
+
+## 🧩 Hierarchy Designer Pro
+Unity editor tool for workflow optimization.
+
+**Tech:** Unity Editor API • C#
+
+---
+
+## 🧟 ZombieGame3D
+3D FPS survival game with AI enemies.
+
+**Tech:** Unity • AI Systems • Gameplay Programming
+
+---
+
+## 🎲 PuzzleGame
+Cross-platform puzzle game.
+
+**Tech:** Unity • Game Design
+
+---
+
+## 📱 Mobile Orientation System
+Unity mobile utility for screen orientation handling.
+
+**Tech:** Unity • Mobile Systems
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Release X-Farm-Pro as a stable desktop product
+- 🎮 Publish multiple Unity tools & games
+- 🧠 Improve system architecture skills
+- 🤖 Build AI-assisted developer tools
 - 🌍 Contribute to open-source projects
 - ⭐ Reach 100+ GitHub stars
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/HasanEren72">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:yourmail@example.com">
@@ -162,17 +155,25 @@ Utility system for handling screen orientation in Unity mobile apps.
 </a>
 
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
 
 ---
 
+# 📌 Important Notes
+
+- 🧠 X-Farm-Pro = Electron + Web stack (NOT Unity)
+- 📊 GitHub does NOT support visitor tracking (only views counter exists)
+- 🐍 Snake + graphs are visual branding only
+
+---
+
 <div align="center">
 
-### 💡 Code • Build • Optimize • Evolve
+### 💡 Code • Build • Optimize • Scale
 
-<img src="https://komarev.com/ghpvc/?username=HasanEren72&label=Profile%20Views&color=58A6FF&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=HasanEren72&label=Profile%20Views&color=1f6feb&style=flat" />
 
 </div>
