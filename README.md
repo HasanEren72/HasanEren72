@@ -11,19 +11,10 @@
 ---
 
 # 🧠 About Me
+I am a **Unity & Software Developer** focused on building scalable systems, game development tools, and automation solutions.
 
-I am a **Software Engineer & Developer** focused on building:
+I enjoy designing **clean architecture**, optimizing performance, and creating developer tools that improve workflow efficiency.
 
-- ⚙️ Desktop applications  
-- 🎮 Game systems  
-- 🧩 Developer tools  
-- 🌐 Automation & data-driven systems  
-
-I care about:
-- Clean architecture  
-- Scalable design  
-- Performance optimization  
-- Developer experience (DX)
 
 ---
 
