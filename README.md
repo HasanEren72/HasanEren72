@@ -141,11 +141,11 @@ Unity mobile utility for screen orientation handling.
 <img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:yourmail@example.com">
+<a href="hasaneren158@gmail.com">
 <img src="https://img.shields.io/badge/Email-238636?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/hasan-eren-a3a37323b">
 <img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin"/>
 </a>
 
