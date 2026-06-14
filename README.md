@@ -4,7 +4,7 @@
 
 # 👋 Welcome To My GitHub Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&center=true&vCenter=true&width=850&lines=Unity+Game+Developer;Software+Engineering+Student;C%23+Developer;Building+Games+And+Developer+Tools;Learning+AI+And+Modern+Software+Architecture" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&center=true&vCenter=true&width=850&lines=Unity+Game+Developer;Software+Engineering;C%23+Developer;Building+Games+And+Developer+Tools;Learning+AI+And+Modern+Software+Architecture" />
 
 </div>
 
