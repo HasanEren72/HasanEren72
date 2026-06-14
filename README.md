@@ -173,9 +173,4 @@ Utility project for handling mobile screen orientation in Unity applications.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,40:238636,100:58A6FF"/>
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/HasanEren72/HasanEren72/blob/output/github-contribution-grid-snake.svg)
-# 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HasanEren72/HasanEren72/output/github-contribution-grid-snake-dark.svg" />
-</p>
