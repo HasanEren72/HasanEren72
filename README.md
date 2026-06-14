@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasan Eren</h1>
-<h3 align="center">Unity Game Developer & Software Engineer Student</h3>
+<h3 align="center">Unity Game Developer & Software Engineer </h3>
 
 ---
 
