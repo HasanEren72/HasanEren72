@@ -162,11 +162,7 @@ Unity mobile utility for screen orientation handling.
 
 ---
 
-# 📌 Important Notes
 
-- 🧠 X-Farm-Pro = Electron + Web stack (NOT Unity)
-- 📊 GitHub does NOT support visitor tracking (only views counter exists)
-- 🐍 Snake + graphs are visual branding only
 
 ---
 
